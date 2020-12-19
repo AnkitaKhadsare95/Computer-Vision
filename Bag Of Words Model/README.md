@@ -2,7 +2,7 @@
 
 ## Bag of Words Model
 
-The purpose of this assignment is to create a bag of words model. The training data is been provided. It consists of data in the form of images of 4 different types of objects. That is images of an accordion, a dollar bill, a motorbike and a soccer ball. Each type consists of several images of its kind. 
+The purpose of this assignment is to create a bag of words model. The training data consisted of data in the form of images of 4 different types of objects. That is images of an accordion, a dollar bill, a motorbike and a soccer ball. Each type consists of several images of its kind. 
 
 In the bag of words model, image features are taken into consideration, and similar features are grouped together. Thus, in order to implement this bag of words model, we need to extract features of each image. Also, we can extract the description of every image. 
 
